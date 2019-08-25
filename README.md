@@ -13,8 +13,10 @@
 ### Commands
 
 **Generate Package.json File:** npm init  
+**INstall all Packages from Packages.json**: npm install
 **Install Express.js locally:** npm install express --save  
 **Install Nodemon.js globally:** npm install -g nodemon  
+
 
 ## Syntax
 
