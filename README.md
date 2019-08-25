@@ -17,6 +17,9 @@
 **Install Express.js locally:** npm install express --save  
 **Install Nodemon.js globally:** npm install -g nodemon  
 
+###Useful Packages  
+* Routing-Controllers
+* uuid
 
 ## Syntax
 
