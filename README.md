@@ -19,8 +19,8 @@
 
 ### Useful Packages  
 [Routing-Controllers](https://github.com/typestack/routing-controllers)  
-[uuid](https://github.com/kelektiv/node-uuid)
-[purify](https://github.com/gigobyte/purify)
+[uuid](https://github.com/kelektiv/node-uuid)  
+[purify](https://github.com/gigobyte/purify)  
 
 ## Syntax
 
