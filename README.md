@@ -8,6 +8,7 @@
 **Save dependencies in project:** --save  
 **Save dependencies temporary:** --no-save  
 **Save dependencies globally:** -g  
+**Save as development-dependencies:** -D  
 
 
 ### Commands
