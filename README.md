@@ -1,7 +1,7 @@
 # NodeJs-Notes
 
 
-## Nuget-Packet-Manager
+## Node-Package-Manager
 
 **Syntax:** npm Command -PrePackageCommand Package --PostPackageCommand  
   
