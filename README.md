@@ -10,6 +10,12 @@
 **Save dependencies globally:** -g  
 **Save as development-dependencies:** -D  
 
+### Files  
+**Package.json:** 
+* lists all required dependencies  
+* defines entry point  
+ 
+**Package-Lock.json:** lists all current dependencies  
 
 ### Commands
 
