@@ -15,3 +15,11 @@
 **Generate Package.json File:** npm init  
 **Install Express.js locally:** npm install express --save  
 **Install Nodemon.js globally:** npm install -g nodemon  
+
+## Syntax
+
+### Import modules
+**include Absolute-Path:** const var = require("Absolute-Path");  
+**include Relative-Path:** const var = require("./Relative-Path");  
+**Parent-Directory:** ../  
+
