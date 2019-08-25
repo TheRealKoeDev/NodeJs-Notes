@@ -19,7 +19,7 @@
 ## Syntax
 
 ### Import modules
-**include Absolute-Path:** const var = require("Absolute-Path");  
-**include Relative-Path:** const var = require("./Relative-Path");  
+**include Absolute-Path:** const module = require("Absolute-Path");  
+**include Relative-Path:** const module = require("./Relative-Path");  
 **Parent-Directory:** ../  
 
