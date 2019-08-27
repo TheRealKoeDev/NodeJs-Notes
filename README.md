@@ -28,7 +28,8 @@
 [Routing-Controllers](https://github.com/typestack/routing-controllers)  
 [uuid](https://github.com/kelektiv/node-uuid)  
 [purify](https://github.com/gigobyte/purify)  
-[TypeOrm](https://github.com/typeorm/typeorm)
+[TypeOrm](https://github.com/typeorm/typeorm)  
+[TsDoc](https://github.com/microsoft/tsdoc)
 
 ## Syntax
 
