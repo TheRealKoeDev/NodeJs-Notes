@@ -30,6 +30,7 @@
 [purify](https://github.com/gigobyte/purify)  
 [TypeOrm](https://github.com/typeorm/typeorm)  
 [TsDoc](https://github.com/microsoft/tsdoc)
+[class-transformer](https://github.com/typestack/class-transformer)
 
 ## Syntax
 
