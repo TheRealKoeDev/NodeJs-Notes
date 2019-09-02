@@ -29,8 +29,10 @@
 [uuid](https://github.com/kelektiv/node-uuid)  
 [purify](https://github.com/gigobyte/purify)  
 [TypeOrm](https://github.com/typeorm/typeorm)  
-[TsDoc](https://github.com/microsoft/tsdoc)
-[class-transformer](https://github.com/typestack/class-transformer)
+[TsDoc](https://github.com/microsoft/tsdoc)  
+[class-transformer](https://github.com/typestack/class-transformer)  
+[InversifyJS](https://github.com/inversify/InversifyJS)  
+[NestJs](https://nestjs.com/)  
 
 ## Syntax
 
