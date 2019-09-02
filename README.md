@@ -33,6 +33,7 @@
 [class-transformer](https://github.com/typestack/class-transformer)  
 [InversifyJS](https://github.com/inversify/InversifyJS)  
 [NestJs](https://nestjs.com/)  
+[Ts.ed](https://tsed.io)  
 
 ## Syntax
 
